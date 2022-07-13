@@ -34,5 +34,7 @@ Spending per student did show a change however it is not significant.
 The size of the school did not seem to be affected, you have to add show the decimal out a few digits to see the difference.
 
 # Resources
-
+jupyter notebook, python version 3.9.12
+schools_complete.csv
+students_complete.csv
 
