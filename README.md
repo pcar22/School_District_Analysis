@@ -19,4 +19,12 @@ Thomas High School is a medium size school and we can see the change has little 
 ![School District Analysis](https://github.com/pcar22/School_District_Analysis/blob/main/Resources/School_Size_Module.png)
 ![School District Analysis](https://github.com/pcar22/School_District_Analysis/blob/main/Resources/School_Size_Challenge.png)
 
+The spending per student also has not shown little change. The original analysis is shown above first followed by the change after the changes were made.
+
+![School District Analysis](https://github.com/pcar22/School_District_Analysis/blob/main/Resources/Spending_Student_Module.png)
+![School District Analysis](https://github.com/pcar22/School_District_Analysis/blob/main/Resources/Spending_Student_Challenge.png)
+
+# Summary
+
+
 
